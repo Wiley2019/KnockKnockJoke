@@ -1,6 +1,6 @@
 # KnockKnockJoke
 
-###Variables
-playername - "please enter anme"
+Variables
+player name - "Please enter name"
 
 
