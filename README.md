@@ -18,7 +18,7 @@ prompts:
 	PlayerName("Please enter you name)
 	"Would you like to hear a joke"
 
-"""sudo code:"""
+"""sudo code:
 PlayerName = input("Please enter your name")
 # print("Would you like to hear a joke?")
 input responce1
